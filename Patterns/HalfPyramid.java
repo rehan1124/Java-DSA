@@ -16,6 +16,5 @@ public class HalfPyramid {
         for (int i = 1; i <= m; i++) {
             System.out.println("*".repeat(i));
         }
-//        System.out.println();
     }
 }
